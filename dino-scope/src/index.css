@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-obsidian text-ash-light overflow-x-hidden;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2d5a4e;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #cf4520;
+}
+
+/* Google Translate Overrides */
+.google-translate-container {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.goog-te-gadget {
+  font-family: 'Inter', sans-serif !important;
+  color: transparent !important;
+  /* Hide "Powered by Google" */
+  font-size: 0 !important;
+}
+
+.goog-te-gadget-simple {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  padding: 8px 12px !important;
+  border-radius: 9999px !important;
+  /* Pill shape */
+  transition: all 0.3s ease;
+  display: flex !important;
+  align-items: center;
+}
+
+.goog-te-gadget-simple:hover {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border-color: #ff5722 !important;
+}
+
+.goog-te-menu-value {
+  color: #fff !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  margin: 0 !important;
+}
+
+.goog-te-menu-value span {
+  color: #e0e0e0 !important;
+  border-left: none !important;
+}
+
+.goog-te-menu-value span:first-child {
+  /* The selected language text */
+  padding-right: 4px;
+}
+
+.goog-te-banner-frame {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+/* Hide the Google icon in the button if desired, or keep it */
+.goog-te-gadget-icon {
+  display: none !important;
+}
