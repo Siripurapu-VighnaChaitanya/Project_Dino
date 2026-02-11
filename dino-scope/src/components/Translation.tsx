@@ -1,4 +1,6 @@
 import React, { useEffect, useRef } from 'react';
+import { motion } from 'framer-motion';
+import { Globe } from 'lucide-react';
 
 declare global {
     interface Window {
@@ -31,6 +33,7 @@ export const Translation: React.FC = () => {
                 new window.google.translate.TranslateElement(
                     {
                         pageLanguage: 'en',
+                        includedLanguages: 'en,te,hi,ta', // Restricted languages
                         layout: window.google.translate.TranslateElement.InlineLayout.SIMPLE,
                         autoDisplay: false,
                     },
@@ -57,6 +60,13 @@ export const Translation: React.FC = () => {
     }, []);
 
     return (
-        <div ref={googleTranslateRef} className="google-translate-container" />
+        <motion.div
+            className="relative flex items-center bg-white/10 backdrop-blur-md px-3 py-1.5 rounded-full border border-white/20 hover:bg-white/20 transition-colors group"
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+        >
+            <Globe className="w-4 h-4 text-volcanic-orange mr-2 animate-pulse group-hover:animate-spin-slow" />
+            <div ref={googleTranslateRef} className="google-translate-container" />
+        </motion.div>
     );
 };

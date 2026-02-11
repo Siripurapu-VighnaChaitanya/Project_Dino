@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import type { Dinosaur } from '../data/dinos';
@@ -10,6 +10,14 @@ interface DinoCardProps {
 }
 
 export const DinoCard: React.FC<DinoCardProps> = ({ dino, index }) => {
+    const [imgError, setImgError] = useState(false);
+
+    // Fallback image based on dinosaur type
+    const getFallbackImage = () => {
+        const color = dino.type === 'Carnivore' ? 'e74c3c' : dino.type === 'Herbivore' ? '27ae60' : 'f39c12';
+        return `https://placehold.co/600x400/${color}/ffffff?text=${encodeURIComponent(dino.name)}`;
+    };
+
     return (
         <motion.div
             initial={{ opacity: 0, y: 50 }}
@@ -32,8 +40,9 @@ export const DinoCard: React.FC<DinoCardProps> = ({ dino, index }) => {
                     {/* Background Image */}
                     <div className="absolute inset-0">
                         <img
-                            src={dino.image}
+                            src={imgError ? getFallbackImage() : dino.image}
                             alt={dino.name}
+                            onError={() => setImgError(true)}
                             className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/40 to-transparent opacity-80 group-hover:opacity-60 transition-opacity duration-300" />

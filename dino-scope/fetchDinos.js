@@ -16,10 +16,10 @@ const seedDinos = [
         name: 'Tyrannosaurus Rex',
         type: 'Carnivore',
         era: 'Cretaceous',
-        description: 'The King of Tyrant Lizards, ruling the late Cretaceous.',
+        description: 'The King of Tyrant Lizards, ruling the late Cretaceous. (Translate me!)',
         longDescription: 'Tyrannosaurus rex was one of the largest meat-eating dinosaurs that ever lived. Everything about this ferocious predator, from its thick, heavy skull to its 4-foot-long (1.2-meter-long) jaw, was designed for maximum bone-crushing action.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Tyrannosaurus_Rex_Holotype.jpg',
-        images: generateHeroFrames() // Use the frames here!
+        images: generateHeroFrames()
     },
     {
         id: 'triceratops',
@@ -48,8 +48,8 @@ const seedDinos = [
         era: 'Jurassic',
         description: 'A colossal sauropod with a giraffe-like stance.',
         longDescription: 'Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg',
-        images: ['https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg']
+        image: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg',
+        images: ['https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg']
     },
     {
         id: 'stegosaurus',
@@ -58,8 +58,8 @@ const seedDinos = [
         era: 'Jurassic',
         description: 'Known for its double row of kite-shaped plates.',
         longDescription: 'Stegosaurus had a distinctive double row of bony plates running along its back.',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg',
-        images: ['https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg']
+        image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png',
+        images: ['https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png']
     },
     {
         id: 'spinosaurus',
@@ -68,8 +68,8 @@ const seedDinos = [
         era: 'Cretaceous',
         description: 'The largest carnivorous dinosaur, even bigger than T-Rex.',
         longDescription: 'Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png',
-        images: ['https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png']
+        image: 'https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png',
+        images: ['https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png']
     },
     {
         id: 'ankylosaurus',
@@ -78,8 +78,8 @@ const seedDinos = [
         era: 'Cretaceous',
         description: 'A heavily armored dinosaur.',
         longDescription: 'Ankylosaurus was a tank-like dinosaur covered in bony armor plates.',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png',
-        images: ['https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png']
+        image: 'https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png',
+        images: ['https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png']
     },
     {
         id: 'allosaurus',

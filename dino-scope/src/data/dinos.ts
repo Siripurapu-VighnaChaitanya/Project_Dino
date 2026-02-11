@@ -249,9 +249,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -261,9 +261,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -273,9 +273,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -285,9 +285,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -718,9 +718,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 2.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -730,9 +730,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 2.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -742,9 +742,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 2.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -754,9 +754,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 2.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -1187,9 +1187,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 3.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -1199,9 +1199,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 3.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -1211,9 +1211,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 3.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -1223,9 +1223,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 3.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -1656,9 +1656,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 4.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -1668,9 +1668,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 4.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -1680,9 +1680,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 4.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -1692,9 +1692,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 4.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -2125,9 +2125,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 5.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -2137,9 +2137,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 5.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -2149,9 +2149,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 5.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -2161,9 +2161,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 5.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -2594,9 +2594,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 6.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -2606,9 +2606,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 6.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -2618,9 +2618,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 6.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -2630,9 +2630,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 6.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -3063,9 +3063,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 7.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -3075,9 +3075,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 7.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -3087,9 +3087,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 7.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -3099,9 +3099,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 7.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -3532,9 +3532,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 8.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -3544,9 +3544,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 8.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -3556,9 +3556,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 8.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -3568,9 +3568,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 8.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -4001,9 +4001,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 9.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -4013,9 +4013,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 9.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -4025,9 +4025,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 9.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -4037,9 +4037,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 9.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -4470,9 +4470,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 10.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -4482,9 +4482,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 10.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -4494,9 +4494,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 10.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -4506,9 +4506,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 10.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -4939,9 +4939,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 11.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -4951,9 +4951,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 11.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -4963,9 +4963,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 11.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -4975,9 +4975,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 11.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -5408,9 +5408,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 12.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -5420,9 +5420,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 12.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -5432,9 +5432,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 12.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -5444,9 +5444,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 12.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -5877,9 +5877,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 13.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -5889,9 +5889,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 13.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -5901,9 +5901,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 13.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -5913,9 +5913,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 13.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -6346,9 +6346,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 14.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -6358,9 +6358,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 14.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -6370,9 +6370,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 14.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -6382,9 +6382,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 14.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -6815,9 +6815,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 15.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -6827,9 +6827,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 15.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -6839,9 +6839,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 15.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -6851,9 +6851,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 15.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -7284,9 +7284,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 16.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -7296,9 +7296,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 16.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -7308,9 +7308,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 16.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -7320,9 +7320,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 16.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -7753,9 +7753,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 17.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -7765,9 +7765,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 17.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -7777,9 +7777,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 17.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -7789,9 +7789,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 17.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -8222,9 +8222,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 18.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -8234,9 +8234,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 18.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -8246,9 +8246,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 18.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -8258,9 +8258,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 18.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -8691,9 +8691,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 19.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -8703,9 +8703,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 19.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -8715,9 +8715,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 19.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -8727,9 +8727,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 19.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -9160,9 +9160,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 20.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -9172,9 +9172,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 20.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -9184,9 +9184,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 20.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -9196,9 +9196,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 20.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -9629,9 +9629,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 21.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -9641,9 +9641,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 21.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -9653,9 +9653,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 21.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -9665,9 +9665,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 21.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -10098,9 +10098,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 22.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -10110,9 +10110,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 22.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -10122,9 +10122,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 22.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -10134,9 +10134,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 22.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -10567,9 +10567,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 23.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -10579,9 +10579,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 23.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -10591,9 +10591,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 23.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -10603,9 +10603,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 23.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -11036,9 +11036,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 24.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -11048,9 +11048,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 24.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -11060,9 +11060,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 24.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -11072,9 +11072,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 24.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -11505,9 +11505,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 25.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -11517,9 +11517,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 25.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -11529,9 +11529,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 25.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -11541,9 +11541,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 25.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -11974,9 +11974,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 26.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -11986,9 +11986,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 26.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -11998,9 +11998,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 26.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -12010,9 +12010,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 26.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -12443,9 +12443,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 27.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -12455,9 +12455,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 27.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -12467,9 +12467,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 27.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -12479,9 +12479,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 27.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -12912,9 +12912,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 28.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -12924,9 +12924,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 28.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -12936,9 +12936,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 28.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -12948,9 +12948,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 28.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -13381,9 +13381,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 29.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -13393,9 +13393,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 29.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -13405,9 +13405,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 29.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -13417,9 +13417,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 29.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -13850,9 +13850,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 30.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -13862,9 +13862,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 30.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -13874,9 +13874,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 30.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -13886,9 +13886,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 30.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -14319,9 +14319,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 31.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -14331,9 +14331,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 31.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -14343,9 +14343,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 31.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -14355,9 +14355,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 31.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -14788,9 +14788,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 32.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -14800,9 +14800,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 32.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -14812,9 +14812,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 32.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -14824,9 +14824,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 32.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -15257,9 +15257,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 33.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -15269,9 +15269,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 33.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -15281,9 +15281,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 33.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -15293,9 +15293,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 33.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -15726,9 +15726,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 34.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -15738,9 +15738,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 34.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -15750,9 +15750,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 34.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -15762,9 +15762,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 34.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -16195,9 +16195,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 35.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -16207,9 +16207,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 35.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -16219,9 +16219,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 35.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -16231,9 +16231,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 35.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -16664,9 +16664,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 36.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -16676,9 +16676,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 36.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -16688,9 +16688,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 36.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -16700,9 +16700,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 36.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -17133,9 +17133,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 37.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -17145,9 +17145,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 37.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -17157,9 +17157,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 37.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -17169,9 +17169,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 37.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -17602,9 +17602,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 38.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -17614,9 +17614,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 38.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -17626,9 +17626,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 38.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -17638,9 +17638,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 38.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -18071,9 +18071,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 39.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -18083,9 +18083,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 39.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -18095,9 +18095,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 39.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -18107,9 +18107,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 39.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -18540,9 +18540,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 40.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -18552,9 +18552,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 40.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -18564,9 +18564,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 40.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -18576,9 +18576,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 40.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -19009,9 +19009,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 41.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -19021,9 +19021,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 41.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -19033,9 +19033,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 41.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -19045,9 +19045,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 41.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -19478,9 +19478,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 42.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -19490,9 +19490,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 42.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -19502,9 +19502,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 42.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -19514,9 +19514,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 42.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -19947,9 +19947,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 43.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -19959,9 +19959,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 43.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -19971,9 +19971,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 43.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -19983,9 +19983,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 43.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
@@ -20416,9 +20416,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "A colossal sauropod with a giraffe-like stance - Variant 44.",
     "longDescription": "Brachiosaurus was a massive sauropod dinosaur that lived in North America during the Late Jurassic period.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/0/03/Brachiosaurus_DB.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Brachiosaurus.jpg"
     ]
   },
   {
@@ -20428,9 +20428,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Jurassic",
     "description": "Known for its double row of kite-shaped plates - Variant 44.",
     "longDescription": "Stegosaurus had a distinctive double row of bony plates running along its back.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/82/Stegosaurus_ungulatus.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/1/18/Stegosaurus_stenops_reconstruction.png"
     ]
   },
   {
@@ -20440,9 +20440,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "The largest carnivorous dinosaur, even bigger than T-Rex - Variant 44.",
     "longDescription": "Spinosaurus is known for the distinctive sail on its back and its crocodile-like snout.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/Spinosaurus_aegyptiacus_skeletal_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Spinosaurus_Scale.png"
     ]
   },
   {
@@ -20452,9 +20452,9 @@ export const dinosaurs: Dinosaur[] = [
     "era": "Cretaceous",
     "description": "A heavily armored dinosaur - Variant 44.",
     "longDescription": "Ankylosaurus was a tank-like dinosaur covered in bony armor plates.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ankylosaurus_magniventris_reconstruction.png"
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Ankylosaurus_dinosaur_size_comparison.png"
     ]
   },
   {
